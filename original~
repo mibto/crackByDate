@@ -1,0 +1,1 @@
+In this lab, we want to impress on you the importance of having good random numbers in cryptographic applications. We will see several cases where random numbers of questionable quality can ruin the security of an entire system, even though every other component is secure.
